@@ -1,3 +1,45 @@
+# 1.1.2
+
+## Disabled and removed mods:
+- [-] notnotnotswipez-MoreCompany-1.11.2 (Not needed, but it's ok to add) 
+- [-] Redsun-PatrickStarModel-1.0.1 
+- [-] Redsun-LoonaModel-1.0.0 
+- [-] Redsun-SpongeBobModel-1.0.2 
+- [-] Redsun-KrabModel-1.0.0 
+- [-] Redsun-SybilModel-1.0.0 
+- [-] 8BitAnt-Ants_Scrap-1.1.8
+- [-] Caigan-Tokucade_Scrap-1.7.0
+- [-] juni-JacketForLethalCompany-0.1.0
+
+## Added:
++ [+] WinterMantis-Espunny-1.0.0
++ [+] Vulfox-Loona_Deluxe_Edition-0.4.0
++ [+] XenoSpartanV-Sybil-1.0.1
++ [+] WinterMantis-Umbreepunny-1.0.2
++ [+] PoikSpirit-VoidCatCompany-1.0.3
++ [+] FiligraniCringeGang-GLaDOSPlayerModel-1.0.0
++ [+] bcs4313-Moai_Enemy-2.6.1
++ [+] bcs4313-Legend_of_The_Moai-1.8.2
+
+## Updated
+- Zaggy1024-PathfindingLib-0.1.1 -> Zaggy1024-PathfindingLib-1.0.1
+- MonoDetour-MonoDetour-0.6.13 -> MonoDetour-MonoDetour-0.6.14
+- MonoDetour-MonoDetour_BepInEx_5-0.6.13 -> MonoDetour-MonoDetour_BepInEx_5-0.6.14
+- ButteryStancakes-EnemySoundFixes-1.8.0 -> ButteryStancakes-EnemySoundFixes-1.8.1
+
+## Config changes
+
+### x753.More_Suits:
+
+	General
+		Unlock All Suits = True
+### LethalResonance:
+	
+	EnabledSounds
+		nutcracker_shotgun = False
+		shotgun = False
+		menu_theme = False
+
 # 1.1.1 - URL change
  
 to my github, for better issue track and their solution
@@ -61,10 +103,7 @@ Magic_Wesley-Wesleys_Moons-6.1.4 -> Magic_Wesley-Wesleys_Moons-6.1.7
 	_Randomize Upgrades_
 		Enable Randomize Upgrades = true
 		Amount of Upgrades = 10
-
-
-
-
+	
 
 
 -------------
