@@ -1,8 +1,8 @@
 {
-    "name": "Testing_Pack",
-    "version_number": "1.1.0",
-    "website_url": "https://github.com/thunderstore-io",
-    "description": "Just modpack for my friends",
+  "name": "Testing_Pack",
+  "version_number": "1.1.1",
+  "website_url": "https://github.com/Ronso20/Testing-Pack",
+  "description": "Just modpack for my friends",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "AinaVT-LethalConfig-1.4.6",
