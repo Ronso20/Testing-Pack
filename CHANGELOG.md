@@ -1,3 +1,46 @@
+# 1.1.3
+
+## Disabled and removed mods:
+- [-] bcs4313-Legend_of_The_Moai-1.8.2 (Massive fps drop on easter map)
+
+## Added:
++ [+] WinterMantis-Sylvunny-1.3.2
++ [+] WinterMantis-Flarepunny-1.0.1
++ [+] IAmSympathy-Wesleys_Moons_Journeys_Menu-1.0.4
++ [+] Darkbrewery-Emblem-1.6.4
+
+## Config changes
+
+### Emergency_Dice_Updated
+	
+	Clientside
+		Pussy mode = false
+
+	Misc
+		Lovers On Start = True
+
+	Chronos Spawn rates = 23 -> 90
+
+	Code REbirth Die Spawn rates
+		Default = 25 -> 100
+
+	Gambler Spawn rates
+		Default = 25 -> 100
+
+	Rusty Spawn rates
+		Default = 18 -> 75
+
+	Sacrificer Spawn rates
+		Default = 20 -> 80
+
+	Steve Le Dice Spawn rates
+		Default = 25 -> 100
+
+	Surfaced Die Spawn rates
+		Default = 25 -> 100
+
+	The Saint Spawn rates
+		Default = 10 -> 50
 # 1.1.2
 
 ## Disabled and removed mods:
