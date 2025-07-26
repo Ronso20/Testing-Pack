@@ -1,6 +1,6 @@
 {
   "name": "Testing_Pack",
-  "version_number": "1.1.3",
+  "version_number": "1.1.4",
   "website_url": "https://github.com/Ronso20/Testing-Pack",
   "description": "Just modpack for my friends",
   "dependencies": [
@@ -146,8 +146,11 @@
     "bcs4313-Moai_Enemy-2.6.1",
     "WinterMantis-Sylvunny-1.3.2",
     "WinterMantis-Flarepunny-1.0.1",
-    "IAmSympathy-Wesleys_Moons_Journeys_Menu-1.0.4",
-    "Darkbrewery-Emblem-1.6.4"
+    "WinterMantis-Explicit_Sylvunny-1.3.3",
+    "BMX-LobbyCompatibility-1.5.1",
+    "WinterMantis-Explicit_Flarepunny-1.0.1",
+    "WinterMantis-Explicit_Umbreepunny-1.0.2",
+    "anormaltwig-LateCompany-1.0.18"
 
 
 

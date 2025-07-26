@@ -1,3 +1,17 @@
+# 1.1.4 NSFW version
+
+## Disabled and removed mods:
+- [-] IAmSympathy-Wesleys_Moons_Journeys_Menu-1.0.4  (Wasn't liked)
+- [-] Darkbrewery-Emblem-1.6.4  
+
+## Added:
++ [+] WinterMantis-Explicit_Sylvunny-1.3.3
++ [+] BMX-LobbyCompatibility-1.5.1
++ [+] WinterMantis-Explicit_Flarepunny-1.0.1
++ [+] WinterMantis-Explicit_Umbreepunny-1.0.2
++ [+] anormaltwig-LateCompany-1.0.18
+
+
 # 1.1.3
 
 ## Disabled and removed mods:
