@@ -1,3 +1,64 @@
+# 1.1.5
+
+## Disabled and removed mods:
+- [-] Kittenji-NavMeshInCompany-1.0.3
+- [-] Kittenji-Herobrine-1.3.6
+- [-] DrConnor-FernFromFrierenMod-0.1.0
+- [-] TeamRacoon-FrierenPlayerSkin-0.1.4
+
+## Added:
++ [+] Kittenji-Football-1.1.12 (bit more fair than herobrine)
++ [+] bcs4313-Legend_of_The_Moai-1.8.3 (should be fixed)
++ [+] bcs4313-Lethal_Nuke-1.0.1 (something new)
++ [+] femboytv-LethalPosters-1.2.3 (something for future project)
+
+## Updated:
+
+- Lategame_Upgrades will be updated to: 3.12.4
+- CustomStoryLogs will be updated to: 1.5.2
+- CruiserImproved will be updated to: 1.5.2
+- joi_Female_Scavenger will be updated to: 2.0.7
+- LobbyImprovements will be updated to: 1.1.1
+- UsualScrap will be updated to: 1.8.1
+
+## Config changes
+	
+### MoreShipUpgrades
+	
+	Added updated config file
+
+	Misc
+		Convert all upgrades to be shared = true -> False
+
+### Coroner
+	en-us
+		messages = something has been added :)
+ 
+## Config changes in 1.1.4 (Forgot to add)
+
+### Lategame_Upgrades
+	
+	_Alternative Currency_
+		Credits to Alternative Curency Ration = 25 -> 50
+
+### ImmersiveScrap
+	
+	All SpawnWeight (Vanilla and Custom) = 20 -> 10 
+
+### Emergency_Dice_Updated
+	
+	Surface Die Spawn rates
+		Default = 100 -> 25 
+		This die mostly does nothing, so until fix it's spawnrate is lowered but can be sold as scrap_
+
+	Misc
+		Inside Joke = false -> true
+
+### Chaos Diversity
+
+	Menu
+		Custom Menu Music = false -> true
+
 # 1.1.4 NSFW version
 
 ## Disabled and removed mods:

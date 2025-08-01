@@ -10,11 +10,11 @@
             (en-us)
 
             Translation Notes:
-            *This is the default localization file for Coroner. 
+            *This is the default localization file for Coroner.
             *Please ensure that the correct version is noted above in translations, to help future translators.
             *Don't forget to update TRANSLATING.md with your translation's information!
             *Remove these lines marked with an asterisk when not in the English (American) file.
-            
+
             By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
             If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
                 so make this one literal and specific.
@@ -81,7 +81,26 @@
         <FunnyNote text="Biggest Liability." />
         <FunnyNote text="Has 1 pending business email." />
         <FunnyNote text="Fastest thinker." />
-        <FunnyNote text="Lost in thought." />
+        <FunnyNote text="You made it out… but your moans are still echoing." />
+		<FunnyNote text="Survival confirmed. That scream? Suspiciously erotic." />
+		<FunnyNote text="You lived. That thing wanted you… and not just for dinner." />
+		<FunnyNote text="Still breathing. The entity wrote poetry about your scent." />
+		<FunnyNote text="You made it. The monster’s kink folder just got bigger." />
+		<FunnyNote text="You lived. It wasn’t trying to kill you—it was trying to keep you." />
+		<FunnyNote text="You escaped. The creature said you were ‘too pretty to eat." />
+		<FunnyNote text="Still breathing. The entity wrote fanfiction about your screams." />
+        <FunnyNote text="You lived. It’s building a nest. For you. With bones. And lube." />
+	    <FunnyNote text="Survival confirmed. It’s watching your footage. Naked. Crying. Touching itself." />
+	    <FunnyNote text="Survived. The entity said your screams were ‘better than porn." />
+	    <FunnyNote text="Survival confirmed. It’s practicing tentacle techniques. For next time." />
+	    <FunnyNote text="You made it. The creature’s knot was ready. You weren’t." />
+	    <FunnyNote text="Still breathing. The entity called you ‘mate’ before you ran." />
+	    <FunnyNote text="You lived. It’s building a nest. With bones. And plushies." />
+	    <FunnyNote text="Survived thanks to his cum-powered hover boots." />
+	    <FunnyNote text="Enemy tried to dom him, but he’s a brat with admin rights." />
+	    <FunnyNote text="Still alive — his scent caused a mass breeding frenzy." />
+	    <FunnyNote text="Enemy paused to read his kink list and died of shame." />
+	    <FunnyNote text="Enemy paused to read his RP logs and died of confusion." />
 
         <!--
             TN: Generic Death Messages
@@ -137,7 +156,7 @@
 
         <DeathSnipped text="Snipped to death." />
 
-        <!-- 
+        <!--
             TN: Enemy Death Messages
             These are messages for when the player is killed by a specific enemy.
             Try to keep these high quality since they will be the ones players see the most.
@@ -213,7 +232,7 @@
         <DeathEnemyThumper text="Got thumped by a Thumper." />
         <DeathEnemyThumper text="Couldn't outrun a Thumper." />
 
-        <!-- 
+        <!--
             TN: v45 Enemy Death Messages
             Messages used for enemies added in v45.
             Most of these enemies have multiple ways they can kill you, so make sure you don't mix them up.
@@ -235,7 +254,7 @@
         <DeathEnemyNutcrackerShot text="Was at the wrong end of a 21-gun salute." />
         <DeathEnemyNutcrackerShot text="Went the way of Old Yeller." /> <!-- Taken out back and shot like Old Yeller, A saying spawned from the 1957 Disney movie "Old Yeller" -->
 
-        <!-- 
+        <!--
             TN: v50 Enemy Death Messages
             Messages used for enemies added in v50.
         -->
@@ -266,7 +285,7 @@
         <DeathEnemyOldBirdTorch text="Got flambéed by an Old Bird." /> <!-- TN: Flambée: To douse with a liquor and ignite. -->
         <DeathEnemyOldBirdTorch text="Carbonized." />
 
-        <!-- 
+        <!--
             TN: v55 Enemy Death Messages
             Messages used for enemies added in v55.
         -->
@@ -296,7 +315,7 @@
         <DeathEnemyGiantSapsucker text="Pecked to death." />
         <DeathEnemyGiantSapsucker text="Death by a thousand pecks." />
 
-        <!-- 
+        <!--
             TN: Player Death Messages
             These are messages for when the player dies due to player-related means,
             such as murder or using an item improperly.
