@@ -1,6 +1,6 @@
 {
   "name": "Testing_Pack",
-  "version_number": "1.1.6",
+  "version_number": "1.1.7",
   "website_url": "https://github.com/Ronso20/Testing-Pack",
   "description": "Just modpack for my friends",
   "dependencies": [
@@ -150,7 +150,8 @@
     "Kittenji-Football-1.1.12",
     "bcs4313-Legend_of_The_Moai-1.8.3",
     "bcs4313-Lethal_Nuke-1.0.1",
-    "femboytv-LethalPosters-1.2.3"
+    "femboytv-LethalPosters-1.2.3",
+    "TM49-NSFW_Furry_CustomPosters-1.0.0"
 
 
 
