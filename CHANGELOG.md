@@ -1,3 +1,23 @@
+# 1.1.6
+
+## Updated:
+
+- mrov-MrovLib-0.3.1 -> 0.3.2
+- mrov-WeatherRegistry-0.6.1 -> 0.7.0 (new config generated)
+- etherealemil-UsualScrap-1.8.1 -> 1.8.3
+- LethalMatt-Bozoros-2.5.3 -> 2.5.5
+- pacoito-itolib-0.2.0 -> 0.3.2
+- malco-Lategame_Upgrades-3.12.4 -> 3.12.5
+
+## Config changes
+
+### Lategame upgrades
+	Enable Alternative Currency System = true -> false
+	Convert all upgrades to be shared. = false -> true
+	Show upgrades being loaded in chat = true -> false
+
+		The game was too easy with this, so back to ingame credits
+
 # 1.1.5
 
 ## Disabled and removed mods:
