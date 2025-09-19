@@ -1,3 +1,9 @@
+# 2.0.0
+
+Big update, lot's of new mods and many changes in configs, tested and works well :)
+
+
+
 # 1.1.6
 
 ## Updated:
